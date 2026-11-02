@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/france-legi",
   "title": "France Legi",
   "description": "France LEGI — the official consolidated French codes (Code civil, Code pénal, Code du travail…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/france-legi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-france-legi",

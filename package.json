@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-france-legi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "France LEGI — the official consolidated French codes (Code civil, Code pénal, Code du travail, Code général des impôts and the rest of the codes in force), article by article and version by version. Fleet #2936.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "france-legi",
     "gatewaySlug": "france-legi",
-    "sourceHash": "v1-a900562be058b6ee39472669c3c5f82ace2400d555c9078e06c4fd37f22f738d",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-613dcf466c6933603e54d8a55ffd60ac1063e0ee98447b1c50d6155f9d8044ac",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
